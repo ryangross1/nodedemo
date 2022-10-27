@@ -6,4 +6,4 @@ http.createServer(function(request, response) {
    response.write("<h2>Ryan Gross - d31b426</h2> \
       <p>Running node server on port 3062</p>");
    response.end();
-}).listen(3000);
+}).listen(3062);
